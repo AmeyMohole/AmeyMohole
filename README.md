@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9a7&height=200&section=header&text=Amey%20Mohole&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20DevSecOps%20Engineer&descAlignY=60&descSize=22" width="100%" alt="header" />
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Securing+production+servers+%F0%9F%9B%A1%EF%B8%8F;Building+CI%2FCD+pipelines+with+security+gates+%E2%9A%99%EF%B8%8F;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG" /></a>
-</p>
+<h1 align="center">Hi 👋, I'm Amey Mohole</h1>
+<h3 align="center">DevOps & DevSecOps Engineer 🛡️⚙️☁️</h3>
+<p align="center"><i>Securing production servers · Building CI/CD pipelines with security gates · Docker | Kubernetes | Jenkins | AWS</i></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ameymohole&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
@@ -114,14 +112,6 @@ DevOps-focused Security Product Engineer with 2+ years of experience deploying, 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameymohole&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameymohole&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ameymohole&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
-
 ---
 
 ## 🤝 Connect with Me
@@ -131,5 +121,3 @@ DevOps-focused Security Product Engineer with 2+ years of experience deploying, 
   <a href="mailto:moholeamey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/AmeyMohole"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:0e75b6&height=100&section=footer" width="100%" alt="footer" />
