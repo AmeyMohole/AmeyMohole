@@ -1,21 +1,135 @@
-<h1 align="center">Hi 👋, I'm Amey Mohole</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9a7&height=200&section=header&text=Amey%20Mohole&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20DevSecOps%20Engineer&descAlignY=60&descSize=22" width="100%" alt="header" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameymohole&label=Profile%20views&color=0e75b6&style=flat" alt="ameymohole" /> </p>
-
-- 🌱 I’m currently learning **Flutter, React**
-
-- 📫 How to reach me **moholeamey@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/15jaW9QiJW6u57ID0N2mHew9MyMSDOal-cXzvhHJwsMk/edit?usp=sharing](https://docs.google.com/document/d/15jaW9QiJW6u57ID0N2mHew9MyMSDOal-cXzvhHJwsMk/edit?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ameymohole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ameymohole" height="30" width="40" /></a>
-<a href="https://instagram.com/ameymohole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ameymohole" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Securing+production+servers+%F0%9F%9B%A1%EF%B8%8F;Building+CI%2FCD+pipelines+with+security+gates+%E2%9A%99%EF%B8%8F;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ameymohole&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CCP" />
+  <img src="https://img.shields.io/badge/Based%20in-Nashik%2C%20India-138808?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameymohole&show_icons=true&locale=en" alt="ameymohole" /></p>
+---
+
+## 👋 About Me
+
+DevOps-focused Security Product Engineer with 2+ years of experience deploying, securing and maintaining production Ubuntu servers, containerized services and CI/CD pipelines. I integrate **SAST, DAST and container scanning** into pipelines and love turning infrastructure into something repeatable, observable and secure.
+
+- 🔐 Security gates in CI/CD with Semgrep, Trivy and OWASP ZAP
+- ☸️ Containers and orchestration with Docker and K3s
+- 📈 Monitoring with Prometheus and Grafana
+- 📫 Reach me: **moholeamey@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ DevOps & CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins,git,github,githubactions,terraform,jira,bash&perline=10" alt="DevOps" />
+</p>
+
+### 🐳 Containers & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&perline=10" alt="Containers and Cloud" />
+  <img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white" alt="Harbor" />
+  <img src="https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black" alt="K3s" />
+</p>
+<p>
+  <sub>AWS: EC2 · VPC · S3 · IAM · RDS · ELB · Route 53 · CloudFront · Lambda · EKS · ECR · CloudWatch · CloudTrail · KMS</sub>
+</p>
+
+### 📊 Monitoring
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=10" alt="Monitoring" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" />
+</p>
+
+### 🖥️ Systems & Security
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx&perline=10" alt="Systems" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
+  <img src="https://img.shields.io/badge/Semgrep-SAST-1B7F5C?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep" />
+  <img src="https://img.shields.io/badge/Trivy-Scanner-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-DAST-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+</p>
+
+### 🔑 Identity & Access
+<p>
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/OIDC-F78C40?style=for-the-badge&logo=openid&logoColor=white" alt="OIDC" />
+  <img src="https://img.shields.io/badge/2FA-0e75b6?style=for-the-badge&logo=authy&logoColor=white" alt="2FA" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/RBAC-6E40C9?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="RBAC" />
+</p>
+
+### 🧩 Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mysql,redis,kafka&perline=10" alt="Backend" />
+</p>
+
+### 💻 Languages & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,react,html,css&perline=10" alt="Languages" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ QRGT & Atlas (QView) SOC Platform</h3>
+      <p>Two full-stack platforms with RBAC across <b>1,376+ commits</b>: pentest report management and SOC reporting, with Jira-synced incidents, SLA tracking and a MITRE ATT&CK knowledge base.</p>
+      <img src="https://skillicons.dev/icons?i=react,fastapi,postgres,docker,jenkins" alt="stack" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 QStellar Central Dashboard</h3>
+      <p>On-premise vulnerability management platform consolidating <b>Nessus, OpenVAS and ZAP</b> findings with asset risk scoring, SOC detection, threat-intel reporting and a local Ollama LLM assistant.</p>
+      <img src="https://skillicons.dev/icons?i=fastapi,react,postgres,redis,docker" alt="stack" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ AWS Deployment with Terraform</h3>
+      <p>Repeatable infrastructure as code: VPC with subnets and security groups, EC2, ELB, RDS, S3 and IAM roles, monitored with CloudWatch metrics, logs and alarms.</p>
+      <img src="https://skillicons.dev/icons?i=aws,terraform" alt="stack" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔄 DevSecOps Pipeline</h3>
+      <p>Jenkins pipelines with Semgrep, Trivy and OWASP ZAP feeding a central findings dashboard, plus Prometheus and Grafana for server health and uptime.</p>
+      <img src="https://skillicons.dev/icons?i=jenkins,docker,prometheus,grafana" alt="stack" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ameymohole&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameymohole&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameymohole&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ameymohole&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ameymohole"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:moholeamey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/AmeyMohole"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:0e75b6&height=100&section=footer" width="100%" alt="footer" />
